@@ -5,7 +5,7 @@ class PageHeader extends Component {
 	render() {
 		return (
 			<div>
-				<h1>Hello Header of the Page</h1>
+				<h1>Car Work Shop</h1>
 			</div>
 		);
 	}
